@@ -1,0 +1,2 @@
+# qaplatform_worker
+
